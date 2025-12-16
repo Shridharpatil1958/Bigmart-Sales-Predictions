@@ -118,21 +118,6 @@ Outlet age does not significantly affect sales
 
 Feature engineering improved model performance
 
-🚀 How to Run This Project
-
-Clone the repository
-
-git clone https://github.com/your-username/big-mart-sales-prediction.git
-
-
-Install dependencies
-
-pip install -r requirements.txt
-
-
-Run the Jupyter Notebook
-
-jupyter notebook
 
 📌 Future Enhancements
 
